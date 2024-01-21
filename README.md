@@ -17,6 +17,6 @@ Developer:Baghani From Iran.
 
 <br>
 </br>
-مشاهده سایت به صورت زنده- لینک مقابل   https://englishbaghani.iran.liara.run/
+مشاهده سایت به صورت زنده- لینک مقابل  :  https://englishbaghani.iran.liara.run/
 
   
