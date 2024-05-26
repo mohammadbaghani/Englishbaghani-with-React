@@ -6,11 +6,8 @@
 
 https://englisho.liara.run/
 
-برای دیتابیس این پروژه از سایت فایربیس استفاده کرده ام
 
 Technologies used :React js _ WOW js_ MUI Material - Bootstrap - Html - Css
-
-Data base used: firebase web site 
 
 To see the codes please go to branch master
 
